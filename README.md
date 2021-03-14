@@ -3,7 +3,7 @@
 
 ## Description
 
-In this homework assignment I made changes to both the HTML and CSS files to make the website SEO friendly. This was done by changing exisiting div elements to semntic elements. to the HTML file, and consolidating CSS settings to clean up the appearance of the CSS file. New HTML elements and CSS settings were added as well.
+In this homework assignment I made changes to both the HTML and CSS files to make the website SEO friendly. This was done by changing exisiting div elements to semantic elements in the the HTML file, and consolidating CSS settings to clean up the appearance of the CSS file. New HTML elements and CSS settings were added as well.
 
 
 ## Usage
